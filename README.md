@@ -381,7 +381,7 @@ if recurso not in self.recursos_con_cola:
 ---
 
 ## 👨‍💻 Autor
-
+JUNIOR RAMIREZ
 Universidad Lead - Bachillerato en Ciencia de Datos  
 Sistemas Operativos - Tarea Programada 4
 
